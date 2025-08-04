@@ -8,13 +8,14 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  calculaNTU();
+  //calculaNTU();
   medeNivel();
+  delay(800);
 }
 
 void medeNivel() {
   int nivel = analogRead(NIVEL_AGUA);
-  if (nivel > 700) {
+  if (nivel > 500) {
     Serial.println("Nivel alto - liga bomba");
   } else {
     Serial.println("Nivel baixo - desliga bomba");
