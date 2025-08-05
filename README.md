@@ -36,3 +36,5 @@ Proposta de conexões com sensor de nível, bomba de água submersível e turbid
 * Diodo
   
 ![Circuito](./imgs/circuit_image.png)
+
+Diagrama de conexões desenhado em [Cirkit Designer](https://app.cirkitdesigner.com/project/9b49ae63-c708-4f16-b4b1-d946b32d6637)
