@@ -21,7 +21,7 @@ Integração do Arduino UNO com
 
 Proposta de conexões com sensor de nível, bomba de água submersível e turbidez
 
-* Sensor de nível
+* Sensor de nível da água
   * 5V
   * A0
   * GND
@@ -30,3 +30,9 @@ Proposta de conexões com sensor de nível, bomba de água submersível e turbid
   * GND -> G
   * A -> A1
 * Bomba
+* Placa solar
+* Bateria 9V recarregável
+* Capacitor 100uF 10V
+* Diodo
+  
+![Circuito](./imgs/circuit_image.png)
