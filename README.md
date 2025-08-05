@@ -22,9 +22,9 @@ Integração do Arduino UNO com
 Proposta de conexões com sensor de nível, bomba de água submersível e turbidez
 
 * Sensor de nível da água
-  * 5V
-  * A0
-  * GND
+  * 5V -> +
+  * A0 -> S
+  * GND -> -
 * Sensor de turbidez:
   * 5V -> V
   * GND -> G
