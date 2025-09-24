@@ -1,5 +1,5 @@
 const int DIRECAO = 2;
-const int PULSO = 3;
+const int PULSO = 5;
  
 int LDRDC = A0;             // Inicia LDRDC no pino A0
 int LDRDB = A1;             // Inicia LDRDB no pino A1

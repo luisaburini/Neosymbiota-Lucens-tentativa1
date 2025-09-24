@@ -20,7 +20,8 @@ O algoritmo funciona a partir da diferença entre a luz percebida entre os LDRs 
 
 ![Diagrama do projeto](./imgs/rastreador.jpg)
 ![Mecânica do projeto](./imgs/Rastreador%20de%20luz%20solar.drawio.png)
-Créditos da imagem para [ref 1](https://www.usinainfo.com.br/blog/rastreador-solar-com-arduino-um-seguidor-solar-atraves-de-ldr/?srsltid=AfmBOopmhUIaa4iWFgExYoY_OMAmqnunysOihkISRG3wj58gcAvz8ka0)
+
+Referências para o desenho [ref 1](https://www.usinainfo.com.br/blog/rastreador-solar-com-arduino-um-seguidor-solar-atraves-de-ldr/?srsltid=AfmBOopmhUIaa4iWFgExYoY_OMAmqnunysOihkISRG3wj58gcAvz8ka0) [ref 2](https://github.com/luisaburini/Swinging-the-chain)
 
 ## Funcionalidades
 
@@ -28,9 +29,7 @@ Integração do Arduino UNO com
 
 * Rastreador de luz [ref 1](https://www.usinainfo.com.br/blog/rastreador-solar-com-arduino-um-seguidor-solar-atraves-de-ldr/?srsltid=AfmBOopmhUIaa4iWFgExYoY_OMAmqnunysOihkISRG3wj58gcAvz8ka0)
 * Placa solar: [ref 2](https://www.paraisodosbits.com.br/2016/11/09/usando-o-arduino-com-painel-solar/), [ref 3](https://www.instructables.com/Self-Sufficient-Arduino-Board/), [ref 4](https://docs.arduino.cc/learn/electronics/power-pins/)
-* Bomba aquática submersível: [ref 5](https://www.youtube.com/watch?v=HBGYIuBC3BQ), [ref 6](https://www.youtube.com/watch?v=yZqnqxHI59Q)
-
-
+* Motor de passo NEMA + driver TB6600 [ref 5](https://www.youtube.com/watch?v=nLV0fjUWI-g) 
 
 ## Componentes
 
