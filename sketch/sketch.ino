@@ -34,7 +34,7 @@ void loop() {
       Serial.println("LOW");
       digitalWrite(DIRECAO, LOW);
     }
-    else { // (ValorSup < ValorInf) 
+    if (ValorSup < ValorInf) {  
       Serial.println("HIGH");
       digitalWrite(DIRECAO, HIGH);
     }
@@ -45,5 +45,5 @@ void loop() {
       delayMicroseconds(300);
     }
   }
-  delay(110);   
+  delay(100);   
 }
